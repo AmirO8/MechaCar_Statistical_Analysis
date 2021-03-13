@@ -28,7 +28,8 @@ When taking a look at the T-Test we see that our P-Value = .06. If we compare th
 
 ## Study Design: MechaCar vs Competition
 
-We are going to compare the MechaCar to the competition based on the metrics below. The scores will be aggregated and a final score will be between 1-5.
+We are going to compare the MechaCar to the competition based on the metrics below. Each of these scores would be based on a scale of 1-5, then there would be an aggregate score.
+
 
 - Cost
 - Fuel Efficiency
@@ -40,3 +41,6 @@ We are going to compare the MechaCar to the competition based on the metrics bel
 Null Hypothesis(Ho): The MechaCars have no difference in score compared to the competition.
 
 Alternate Hypothesis(Ha): There is a difference in score when comparing the MechaCar to the competition.
+
+The tests to run would be an ANOVA and T-Test. The independent variables can be compared to the population mean, the MechaCar. The ANOVA test will be used since ther are multiple variables(cost, fuel, efficiency. The means of all the metrics can be compared.
+
