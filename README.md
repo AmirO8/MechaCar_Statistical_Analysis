@@ -16,8 +16,12 @@ The variance for Lot1 and Lot1 do not exceed the required 100 PSI. They are .98 
 
 ## T-Tests on Suspension Coils
 ![Main T-Test](https://github.com/AmirO8/MechaCar_Statistical_Analysis/blob/main/Resources/Main%20T-Test.png)
+
 ![Lot 1](https://github.com/AmirO8/MechaCar_Statistical_Analysis/blob/main/Resources/Lot%201.png)
 
 
 ![Lot 2](https://github.com/AmirO8/MechaCar_Statistical_Analysis/blob/main/Resources/Lot%202.png)
+
 ![Lot 3](https://github.com/AmirO8/MechaCar_Statistical_Analysis/blob/main/Resources/Lot%203.png)
+
+When taking a look at the T-Test we see that our P-Value = .06. If we compare this to Lot1 we see that our P-Value = 1. Which means that we can fail to reject the null hypothesis. Lot2 has a P-Valye of .61 so we can also fail to reject the null hypothesis. Lot3 on the other hand has a P-value of .04 so the null hyothesis can be rejected.
