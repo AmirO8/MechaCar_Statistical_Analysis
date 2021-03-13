@@ -25,3 +25,18 @@ The variance for Lot1 and Lot1 do not exceed the required 100 PSI. They are .98 
 ![Lot 3](https://github.com/AmirO8/MechaCar_Statistical_Analysis/blob/main/Resources/Lot%203.png)
 
 When taking a look at the T-Test we see that our P-Value = .06. If we compare this to Lot1 we see that our P-Value = 1. Which means that we can fail to reject the null hypothesis. Lot2 has a P-Valye of .61 so we can also fail to reject the null hypothesis. Lot3 on the other hand has a P-value of .04 so the null hyothesis can be rejected.
+
+## Study Design: MechaCar vs Competition
+
+We are going to compare the MechaCar to the competition based on the metrics below. The scores will be aggregated and a final score will be between 1-5.
+
+- Cost
+- Fuel Efficiency
+- Horse Power
+- Safety Rating
+- Maintenance Cost
+- Resale Value
+
+Null Hypothesis(Ho): The MechaCars have no difference in score compared to the competition.
+
+Alternate Hypothesis(Ha): There is a difference in score when comparing the MechaCar to the competition.
